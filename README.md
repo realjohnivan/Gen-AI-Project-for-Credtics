@@ -44,3 +44,7 @@ The Credtics Assistant directly supports the website's primary goal of convertin
 *   **Reduces Friction**: It offers a low-pressure channel for users to gather information. Many potential clients prefer asking a quick question to a bot over immediately filling out a contact form or calling a sales representative.
 *   **Educates and Qualifies Leads**: By providing detailed information on demand, the chatbot educates visitors about the platform's value. Users who engage in deeper conversations are often more interested and thus become more qualified leads for the sales team.
 *   **Reinforces Brand Identity**: The presence of a sophisticated AI chatbot on a website selling an AI-powered platform serves as a powerful demonstration of the company's technical capabilities. It shows, rather than just tells, that Credtics is at the forefront of AI technology.
+
+### Link to Video Recording
+
+https://docs.google.com/videos/d/1KZ0pYsByEw_Srt1XQdDvwsKru2wLpb6Hvc2kz6d_dac/edit?usp=sharing
